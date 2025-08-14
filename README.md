@@ -3,25 +3,11 @@
 This repository contains the complete workflow for SmartPremium, a machine learning project that predicts insurance premiums based on user demographic and lifestyle factors.
 It includes data exploration, preprocessing, model development & evaluation, and a Streamlit web application for deployment.
 
-🚀 Features
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis with Visualizations
-
-Multiple Model Comparisons
-
-Hyperparameter Tuning
-
-Interactive Prediction Web App
-
-Streamlit Deployment Ready
-
 🛠️ Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/your-username/SmartPremium.git
+git clone https://github.com/Aamir0516/SmartPremium.git
 cd SmartPremium
 
 
@@ -60,15 +46,10 @@ The app will open in your browser.
 
 📈 Models Used
 
-Linear Regression
-
-Ridge Regression
-
-Lasso Regression
-
-Random Forest Regressor
-
-Gradient Boosting Regressor
+●	Linear Regression – A simple model that assumes a linear relationship between features and target.
+●	Decision Trees – A model that splits the data into decision rules.
+●	Random Forest – An advanced tree-based model that reduces overfitting.
+●	XGBoost – A powerful gradient boosting model for high accuracy.
 
 Evaluation metrics used:
 
